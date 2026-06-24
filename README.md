@@ -1,9 +1,10 @@
-# bci-online-preprocessing
-This repository focuses on preprocessing EEG signals in real time.
-All operations are causal and suitable for streaming applications.
+#bci_realtime_full_integration
 
-Topics covered in this repository:
-- Causal band-pass filtering
-- Stateful filter design
-- Sliding window segmentation
-- Offline vs online comparison
+End-to-end real-time BCI system integrating:
+- EEG acquisition (LSL)
+- Online preprocessing
+- Feature extraction
+- Machine learning inference
+- Closed-loop feedback
+
+This repository serves as the final project template.
