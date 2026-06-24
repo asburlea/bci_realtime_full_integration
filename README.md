@@ -1,4 +1,4 @@
-#bci_realtime_full_integration
+# bci_realtime_full_integration
 
 End-to-end real-time BCI system integrating:
 - EEG acquisition (LSL)
